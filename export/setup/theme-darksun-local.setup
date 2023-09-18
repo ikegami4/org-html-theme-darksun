@@ -1,5 +1,6 @@
 # -*- mode: org; -*-
 
+#+HTML_HEAD: <base target="_blank">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="export/styles/darksun/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="export/styles/darksun/css/darksun.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="export/styles/darksun/css/hideshow.css"/>
